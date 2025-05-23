@@ -6,8 +6,9 @@ permissions:
   pull-requests: write
 
 on:
-  push: [main]
-
+  push:
+    branches: [main]
+    
 jobs:
   job:
     name: Sync, build and deploy
