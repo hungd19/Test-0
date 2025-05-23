@@ -1,6 +1,6 @@
 This is a React project bootstrapped with [`create-suinova-app`](https://www.npmjs.com/package/create-suinova-app).
 
-## Getting Started
+## Getting Started s
 
 First, run the development server:
 
