@@ -3,7 +3,6 @@ name: Sync, build and deploy SuiNova app
 
 permissions:
   contents: read
-  pull-requests: write
 
 on:
   push:
